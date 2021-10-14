@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# disney-plus-clone using React, firebase and redux
+A clone of disney+ streaming service using states from react, reducers with redux, firebase to add google login authentication and more. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,7 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# disney-plus-clone
-A clone of disney+ streaming service
->>>>>>> 92e18a452dcbdbc08f7149d1f8260d0857654b9f
+
