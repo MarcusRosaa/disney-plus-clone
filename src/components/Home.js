@@ -1,24 +1,10 @@
 import styled from 'styled-components';
+import ImgSlider from './ImgSlider';
 
 const Home = (props) => {
   return (
     <Container>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
-      <h2>hello</h2>
+      <ImgSlider />
     </Container>
   );
 }
@@ -40,9 +26,5 @@ padding: 0 calc(3.5vw + 5px);
   z-index: -1;
 }
 `;
-
-// const Home = styled.div`
-  
-// `;
 
 export default Home;
